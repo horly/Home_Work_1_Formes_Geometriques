@@ -36,4 +36,4 @@ public class Trapeze implements Formes{
         System.out.println(tra.air());
         System.out.println(tra.perimetre());
     }
-}
+}///
