@@ -1,7 +1,7 @@
 package com.company;
 
-/**
- * Created by Andelo Mata Horly on 26/10/2016.
+/* Home Work 1 Created by ANDELO MATA HORLY and BELABID IKRAM FATIMA ZOHRA on 27/10/2016
+  L2 informatique, Groupe 2
  */
 
 public class Rectangle implements Formes {
