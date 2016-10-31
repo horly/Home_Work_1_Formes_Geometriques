@@ -7,6 +7,15 @@ package com.company;
 public class Cercle implements Formes {
 
     protected double rayon;
+  //un constructeur qui initialise le rayon a 0
+  public Cercle(){
+    this.rayon=0.0,
+  }
+  //un constructeur qui a comme parametre un autre cercle 
+  public Cercle (Cercle other){
+    this.rayon=other.rayon;
+  }
+  
 
     public Cercle(double rayon){
         this.rayon = rayon;
